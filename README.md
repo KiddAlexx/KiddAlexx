@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm KiddAlexx</h1>
 <h3 align="center">A passionate frontend developer based in Barcelona</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiddalexx" alt="kiddalexx" /></a> </p>
-
 - 🔭 I’m currently working on **MapTheHeat**
 
 - 🌱 I’m currently learning **Next.js**
