@@ -46,6 +46,8 @@
   </a> 
 </p>
 
+[![KiddAlexx's GitHub | Languages Over Time](https://stats.quira.sh/KiddAlexx/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=KiddAlexx)
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiddalexx&show_icons=true&locale=en&layout=compact" alt="kiddalexx" /></p>
 
