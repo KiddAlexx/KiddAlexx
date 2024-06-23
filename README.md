@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer based in Barcelona</h3>
 
 <p align="center">
-  - 🔭 I’m currently working on <strong>an Online Review Platform</strong><br>
+  - 🔭 I’m currently working on <strong>Map The Heat</strong><br> - an online platform featuring user-contributed listings and reviews
   - 🌱 I’m currently learning <strong>Next.js</strong><br>
   - 💬 Ask me about <strong>anything!</strong>
 </p>
