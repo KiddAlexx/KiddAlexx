@@ -3,7 +3,7 @@
 
 <p align="center">
   - 🔭 I’m currently working on <strong>MapTheHeat</strong> - an online platform featuring user-contributed listings and reviews<br>
-  - 🌱 I’m currently learning <strong>Next.js</strong><br>
+  - 🌱 I’m currently focussed on <strong>Accessibility & Testing</strong><br>
   - 💬 Ask me about <strong>anything!</strong>
 </p>
 
